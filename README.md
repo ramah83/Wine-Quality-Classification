@@ -7,17 +7,17 @@ The pipeline covers data exploration, preprocessing, visualization, model traini
 
 ## 🚀 Features
 
-📊 **Exploratory Data Analysis (EDA): Summary stats, missing values, class balance, feature distributions, correlation heatmap
+📊 **Exploratory Data Analysis (EDA):** Summary stats, missing values, class balance, feature distributions, correlation heatmap
 
-🧮 **Preprocessing: Binary encoding of target (quality ≥ 7 → Good), optional scaling (MinMaxScaler)
+🧮 **Preprocessing:** Binary encoding of target (quality ≥ 7 → Good), optional scaling (MinMaxScaler)
 
-🌲 **Model Training: RandomForestClassifier with reproducible settings
+🌲 **Model Training:** RandomForestClassifier with reproducible settings
 
-📈 **Evaluation Metrics: Train & test accuracy, precision/recall/F1, confusion matrix, ROC curve & AUC
+📈 **Evaluation Metrics:** Train & test accuracy, precision/recall/F1, confusion matrix, ROC curve & AUC
 
-🧪 **Prediction on New Samples: Reshaping custom inputs and predicting wine quality in real time
+🧪 **Prediction on New Samples:** Reshaping custom inputs and predicting wine quality in real time
 
-🔎 **Visualization: Count plot of quality, barplots vs. quality, correlation heatmap, confusion matrix, ROC curve
+🔎 **Visualization:** Count plot of quality, barplots vs. quality, correlation heatmap, confusion matrix, ROC curve
 
 ---
 
