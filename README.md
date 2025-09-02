@@ -62,6 +62,4 @@ The pipeline covers data exploration, preprocessing, visualization, model traini
 ├── Data/
 │   └── winequality-red.csv                ← Main dataset
 ├── Wine_Quality_Prediction.ipynb          ← Jupyter Notebook (main workflow)
-├── outputs/                               ← Saved plots (optional)
-├── models/                                ← Saved model/scaler (optional)
 └── README.md                              ← Project documentation
